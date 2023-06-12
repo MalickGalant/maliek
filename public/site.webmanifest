@@ -1,7 +1,7 @@
 {
-  "name": "Next.js Commerce",
-  "short_name": "Next.js Commerce",
-  "description": "Next.js Commerce -> https://www.nextjs.org/commerce",
+  "name": "Maliek",
+  "short_name": "Maliek Commerce",
+  "description": "Maliek Commerce -> https://app.maliek.co.za/c",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#fff",
